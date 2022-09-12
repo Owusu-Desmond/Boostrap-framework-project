@@ -2,6 +2,10 @@
 
 Brightfield Tech Academy provides a learning community for developers, by developers. It is a space to connect and bond with each other over technology, and to catalyze learning through the sharing of ideas.
 
+## Screenshot 
+
+![Brightfeild Tech Academy](https://user-images.githubusercontent.com/92303891/189715600-a72376dd-0b70-4ed5-a509-82086374a1b1.png)
+
 ## Setup
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
